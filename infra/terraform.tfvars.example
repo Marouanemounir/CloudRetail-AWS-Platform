@@ -1,0 +1,5 @@
+aws_region = "eu-west-3"
+github_repository = "YOUR_GITHUB_USERNAME/CloudRetail-AWS-Platform"
+environment = "demo"
+# Multi-AZ RDS improves availability but is more expensive:
+db_multi_az = false
